@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/InnomaticsAssignment7/static/css/main.ec5353d0.css",
+    "main.js": "/InnomaticsAssignment7/static/js/main.a68bcd43.js",
+    "static/js/453.ed3810f9.chunk.js": "/InnomaticsAssignment7/static/js/453.ed3810f9.chunk.js",
+    "static/media/content.png": "/InnomaticsAssignment7/static/media/content.6b50abf1e1eebe76fd45.png",
+    "static/media/log.png": "/InnomaticsAssignment7/static/media/log.68fb29f545b06f229961.png",
+    "index.html": "/InnomaticsAssignment7/index.html",
+    "main.ec5353d0.css.map": "/InnomaticsAssignment7/static/css/main.ec5353d0.css.map",
+    "main.a68bcd43.js.map": "/InnomaticsAssignment7/static/js/main.a68bcd43.js.map",
+    "453.ed3810f9.chunk.js.map": "/InnomaticsAssignment7/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec5353d0.css",
+    "static/js/main.a68bcd43.js"
+  ]
+}
